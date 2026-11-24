@@ -1,0 +1,1 @@
+Subir el contenido de este ZIP a la raíz del repositorio cerrajero-la-blanqueada. Activar GitHub Pages desde main / (root). Si el nombre del repositorio cambia, actualizar las URLs absolutas de canonical, sitemap, robots y datos estructurados.
